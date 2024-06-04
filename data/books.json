@@ -1,0 +1,182 @@
+[
+    {
+        "author": "J.K. Rowling",
+        "barcode": "9780439708180",
+        "category": "Fantasy",
+        "title": "Harry Potter and the Sorcerer's Stone"
+    },
+    {
+        "author": "J.R.R. Tolkien",
+        "barcode": "9780547928227",
+        "category": "Fantasy",
+        "title": "The Hobbit"
+    },
+    {
+        "author": "C.S. Lewis",
+        "barcode": "9780064471046",
+        "category": "Fantasy",
+        "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+    },
+    {
+        "author": "Rick Riordan",
+        "barcode": "9780786838653",
+        "category": "Fantasy",
+        "title": "Percy Jackson & The Olympians: The Lightning Thief"
+    },
+    {
+        "author": "William Goldman",
+        "barcode": "9780156035156",
+        "category": "Fantasy",
+        "title": "The Princess Bride"
+    },
+    {
+        "author": "E.B. White",
+        "barcode": "9780064400558",
+        "category": "Kids",
+        "title": "Charlotte's Web"
+    },
+    {
+        "author": "Maurice Sendak",
+        "barcode": "9780064431781",
+        "category": "Kids",
+        "title": "Where the Wild Things Are"
+    },
+    {
+        "author": "Roald Dahl",
+        "barcode": "9780142410370",
+        "category": "Kids",
+        "title": "Matilda"
+    },
+    {
+        "author": "Margaret Wise Brown",
+        "barcode": "9780064430173",
+        "category": "Kids",
+        "title": "Goodnight Moon"
+    },
+    {
+        "author": "Eric Carle",
+        "barcode": "9780399226908",
+        "category": "Kids",
+        "title": "The Very Hungry Caterpillar"
+    },
+    {
+        "author": "Various",
+        "barcode": "9780310920633",
+        "category": "Religion",
+        "title": "The Bible"
+    },
+    {
+        "author": "Various",
+        "barcode": "9780199535958",
+        "category": "Religion",
+        "title": "The Qur'an"
+    },
+    {
+        "author": "Vyasa",
+        "barcode": "9780140449181",
+        "category": "Religion",
+        "title": "The Bhagavad Gita"
+    },
+    {
+        "author": "Various",
+        "barcode": "9780827606807",
+        "category": "Religion",
+        "title": "The Torah"
+    },
+    {
+        "author": "C.S. Lewis",
+        "barcode": "9780060652920",
+        "category": "Religion",
+        "title": "Mere Christianity"
+    },
+    {
+        "author": "Jane Austen",
+        "barcode": "9781503290563",
+        "category": "Romance",
+        "title": "Pride and Prejudice"
+    },
+    {
+        "author": "Charlotte Brontë",
+        "barcode": "9780141441146",
+        "category": "Romance",
+        "title": "Jane Eyre"
+    },
+    {
+        "author": "Emily Brontë",
+        "barcode": "9780141439556",
+        "category": "Romance",
+        "title": "Wuthering Heights"
+    },
+    {
+        "author": "Margaret Mitchell",
+        "barcode": "9781451635621",
+        "category": "Romance",
+        "title": "Gone with the Wind"
+    },
+    {
+        "author": "Nicholas Sparks",
+        "barcode": "9780446605236",
+        "category": "Romance",
+        "title": "The Notebook"
+    },
+    {
+        "author": "Gail Carson Levine",
+        "barcode": "9780064407052",
+        "category": "Fantasy",
+        "title": "Ella Enchanted"
+    },
+    {
+        "author": "Rick Riordan",
+        "barcode": "9780786838653",
+        "category": "Fantasy",
+        "title": "The Lightning Thief"
+    },
+    {
+        "author": "A.A. Milne",
+        "barcode": "9780525444442",
+        "category": "Kids",
+        "title": "The House at Pooh Corner"
+    },
+    {
+        "author": "Dr. Seuss",
+        "barcode": "9780394800165",
+        "category": "Kids",
+        "title": "Green Eggs and Ham"
+    },
+    {
+        "author": "Rick Warren",
+        "barcode": "9780310337509",
+        "category": "Religion",
+        "title": "The Purpose Driven Life"
+    },
+    {
+        "author": "Paulo Coelho",
+        "barcode": "9780061122415",
+        "category": "Religion",
+        "title": "The Alchemist"
+    },
+    {
+        "author": "Jane Austen",
+        "barcode": "9781503290563",
+        "category": "Romance",
+        "title": "Sense and Sensibility"
+    },
+    {
+        "author": "William Shakespeare",
+        "barcode": "9780743477116",
+        "category": "Romance",
+        "title": "Romeo and Juliet"
+    },
+    {
+        "author": "Stephenie Meyer",
+        "barcode": "9780316015844",
+        "category": "Romance",
+        "title": "Twilight"
+    },
+    {
+        "author": "Louisa May Alcott",
+        "barcode": "111",
+        "category": "Romance",
+        "title": "Little Women"
+    }
+]
