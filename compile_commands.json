@@ -1,0 +1,37 @@
+[
+{
+  "directory": "D:/XDUMP/Library_management_system-qt/build",
+  "command": "D:\\XDUMP\\Toolchain\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -ID:/XDUMP/Library_management_system-qt/build/Library_management_system-qt_autogen/include -ID:/XDUMP/Library_management_system-qt/nlohmann_json/single_include -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtCore -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/mkspecs/win32-g++ -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtWidgets -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\Library_management_system-qt.dir\\Library_management_system-qt_autogen\\mocs_compilation.cpp.obj -c D:\\XDUMP\\Library_management_system-qt\\build\\Library_management_system-qt_autogen\\mocs_compilation.cpp",
+  "file": "D:\\XDUMP\\Library_management_system-qt\\build\\Library_management_system-qt_autogen\\mocs_compilation.cpp"
+},
+{
+  "directory": "D:/XDUMP/Library_management_system-qt/build",
+  "command": "D:\\XDUMP\\Toolchain\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -ID:/XDUMP/Library_management_system-qt/build/Library_management_system-qt_autogen/include -ID:/XDUMP/Library_management_system-qt/nlohmann_json/single_include -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtCore -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/mkspecs/win32-g++ -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtWidgets -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\Library_management_system-qt.dir\\main.cpp.obj -c D:\\XDUMP\\Library_management_system-qt\\main.cpp",
+  "file": "D:\\XDUMP\\Library_management_system-qt\\main.cpp"
+},
+{
+  "directory": "D:/XDUMP/Library_management_system-qt/build",
+  "command": "D:\\XDUMP\\Toolchain\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -ID:/XDUMP/Library_management_system-qt/build/Library_management_system-qt_autogen/include -ID:/XDUMP/Library_management_system-qt/nlohmann_json/single_include -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtCore -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/mkspecs/win32-g++ -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtWidgets -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\Library_management_system-qt.dir\\LibraryManagement.cpp.obj -c D:\\XDUMP\\Library_management_system-qt\\LibraryManagement.cpp",
+  "file": "D:\\XDUMP\\Library_management_system-qt\\LibraryManagement.cpp"
+},
+{
+  "directory": "D:/XDUMP/Library_management_system-qt/build",
+  "command": "D:\\XDUMP\\Toolchain\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -ID:/XDUMP/Library_management_system-qt/build/Library_management_system-qt_autogen/include -ID:/XDUMP/Library_management_system-qt/nlohmann_json/single_include -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtCore -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/mkspecs/win32-g++ -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtWidgets -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\Library_management_system-qt.dir\\UserManagement.cpp.obj -c D:\\XDUMP\\Library_management_system-qt\\UserManagement.cpp",
+  "file": "D:\\XDUMP\\Library_management_system-qt\\UserManagement.cpp"
+},
+{
+  "directory": "D:/XDUMP/Library_management_system-qt/build",
+  "command": "D:\\XDUMP\\Toolchain\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -ID:/XDUMP/Library_management_system-qt/build/Library_management_system-qt_autogen/include -ID:/XDUMP/Library_management_system-qt/nlohmann_json/single_include -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtCore -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/mkspecs/win32-g++ -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtWidgets -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\Library_management_system-qt.dir\\Memento.cpp.obj -c D:\\XDUMP\\Library_management_system-qt\\Memento.cpp",
+  "file": "D:\\XDUMP\\Library_management_system-qt\\Memento.cpp"
+},
+{
+  "directory": "D:/XDUMP/Library_management_system-qt/build",
+  "command": "D:\\XDUMP\\Toolchain\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -ID:/XDUMP/Library_management_system-qt/build/Library_management_system-qt_autogen/include -ID:/XDUMP/Library_management_system-qt/nlohmann_json/single_include -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtCore -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/mkspecs/win32-g++ -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtWidgets -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\Library_management_system-qt.dir\\mainwindow.cpp.obj -c D:\\XDUMP\\Library_management_system-qt\\mainwindow.cpp",
+  "file": "D:\\XDUMP\\Library_management_system-qt\\mainwindow.cpp"
+},
+{
+  "directory": "D:/XDUMP/Library_management_system-qt/build",
+  "command": "D:\\XDUMP\\Toolchain\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -ID:/XDUMP/Library_management_system-qt/build/Library_management_system-qt_autogen/include -ID:/XDUMP/Library_management_system-qt/nlohmann_json/single_include -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtCore -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/mkspecs/win32-g++ -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtWidgets -isystem D:/XDUMP/Toolchain/QT/6.7.0/mingw_64/include/QtGui -g -std=gnu++17 -o CMakeFiles\\Library_management_system-qt.dir\\logger.cpp.obj -c D:\\XDUMP\\Library_management_system-qt\\logger.cpp",
+  "file": "D:\\XDUMP\\Library_management_system-qt\\logger.cpp"
+}
+]
